@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/clarson99/internal-events"
-url: "https://sylhare.github.io"
+baseurl: "/internal-events"
+url: "https://clarson99.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
